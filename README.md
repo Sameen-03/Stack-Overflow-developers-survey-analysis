@@ -1,19 +1,16 @@
 Stack Overflow Developer Survey Analysis
 Overview
-This project analyzes the Stack Overflow Developer Survey data to uncover insights about the developer community, including their demographics, locations, and preferences.
+This repository contains an analysis of the Stack Overflow Developer Survey data. The objective is to uncover insights about developers' demographics, locations, and preferences through data exploration and visualization.
 
-Key Objectives
-Understand the dataset through exploration and visualization.
-Identify trends in developer ages, locations, and technologies.
-Analysis Highlights
-Common Developer Ages: Analyzing the distribution of developer ages.
-Top Locations: Identifying the top 10 countries where developers reside.
-Technology Trends: Exploring popular technologies among developers.
-Requirements
-Python libraries: pandas, matplotlib, seaborn (and other libraries used in the notebook).
-Data Source
-The dataset is sourced from the Stack Overflow Developer Survey.
+Features
+Age Distribution: Analysis of common ages among developers.
+Geographic Trends: Identification of the top 10 countries where developers reside.
+Technology Insights: Exploration of popular tools and technologies among developers.
+Dataset
+The data is sourced from the Stack Overflow Developer Survey.
 
-Usage
-Open the Jupyter Notebook file (Stack Overflow developers survey analysis.ipynb).
-Run the cells sequentially to explore the dataset and visualizations.
+Tools and Libraries
+The project uses the following Python libraries:
+
+pandas for data manipulation
+matplotlib and seaborn for data visualization
